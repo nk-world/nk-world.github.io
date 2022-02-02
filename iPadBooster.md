@@ -1,4 +1,6 @@
-# Your iPad is Hacked!!!!
+# iPad Booster
+
+## Your iPad is Hacked!!!!
 **Your iPad is totally hacked which is making it slow down faster.**
 The following apps are in total control of the hacker:
 - Google Chrome
